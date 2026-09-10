@@ -1,8 +1,8 @@
 **Name:** Zhiyao Luo  
 **shader toy solutions:**   
-https://www.shadertoy.com/view/N333Wr
-https://www.shadertoy.com/view/73dGWr
-https://www.shadertoy.com/view/73d3Wr
+https://www.shadertoy.com/view/N333Wr  
+https://www.shadertoy.com/view/73dGWr  
+https://www.shadertoy.com/view/73d3Wr  
 
 # Lab01: Toolbox Functions
 
